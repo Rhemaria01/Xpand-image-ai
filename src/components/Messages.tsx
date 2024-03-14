@@ -34,7 +34,7 @@ const Messages = () => {
                 </Avatar>
                 <div className="transition-all text-lg flex flex-col pt-2">
                   <span className="text-xl font-medium pb-2 text-white">
-                    Xpandi
+                    OSIRIS AI
                   </span>
                   <Loader2 className="h-6 w-6 animate-spin text-white" />
                 </div>

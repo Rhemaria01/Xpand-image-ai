@@ -9,7 +9,7 @@ const ChatPage = () => {
       <div className="fixed top-0  w-full  z-20 bg-zinc-800">
         <div className="text-3xl font-medium text-white  bg-inherit text-center rounded-md py-2 ">
           <a href="/" className="drop-shadow-glow">
-            X P A N D Images
+            OSIRIS ACADEMY
           </a>
         </div>
       </div>
